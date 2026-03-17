@@ -1,0 +1,305 @@
+{
+  "age": [
+    "18-24 years old",
+    "25-34 years old",
+    "35-44 years old",
+    "45-54 years old",
+    "55-64 years old",
+    "65+ years old",
+    "Prefer not to say"
+  ],
+  "fields": [
+    "Agriculture, Forestry, and Fishing",
+    "Construction and Trades",
+    "Manufacturing and Industrial Production",
+    "Healthcare and Social Assistance",
+    "Education and Research",
+    "Retail and Wholesale Trade",
+    "Transportation, Logistics, and Warehousing",
+    "Information Technology and Software",
+    "Finance, Insurance, and Real Estate",
+    "Government, Public Administration, and Defense",
+    "Professional, Scientific, and Technical Services",
+    "Hospitality, Tourism, and Food Services",
+    "Energy, Mining, and Utilities",
+    "Arts, Entertainment, and Media",
+    "Maintenance, Repair, and Personal Services"
+  ],
+  "gender": [
+    "Female",
+    "Male",
+    "Non-binary / third gender",
+    "Prefer not to say"
+  ],
+  "employment_status": [
+    "Homemaker / Stay-at-home parent",
+    "Prefer not to say",
+    "Retired",
+    "Student",
+    "Unemployed, not seeking work",
+    "Unemployed, seeking work",
+    "Working full-time",
+    "Working part-time"
+  ],
+  "education": [
+    "Completed Primary School",
+    "Completed Secondary School",
+    "Graduate / Professional degree",
+    "Prefer not to say",
+    "Some Primary",
+    "Some Secondary",
+    "Some University but no degree",
+    "University Bachelors Degree",
+    "Vocational"
+  ],
+  "marital_status": [
+    "Divorced / Separated",
+    "Married",
+    "Never been married",
+    "Prefer not to say",
+    "Widowed"
+  ],
+  "english_proficiency": [
+    "Advanced",
+    "Basic",
+    "Fluent",
+    "Intermediate",
+    "Native speaker"
+  ],
+  "religion_simplified": [
+    "Christian",
+    "Jewish",
+    "Muslim",
+    "No Affiliation",
+    "Other",
+    "Prefer not to say"
+  ],
+  "ethnicity_simplified": [
+    "Asian",
+    "Black",
+    "Hispanic",
+    "Mixed",
+    "Other",
+    "Prefer not to say",
+    "White"
+  ],
+  "location_reside_country": [
+    "Australia",
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Chile",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Korea, Republic of",
+    "Latvia",
+    "Lesotho",
+    "Luxembourg",
+    "Mexico",
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Prefer not to say",
+    "Slovenia",
+    "South Africa",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Tanzania, United Republic of",
+    "United Kingdom",
+    "United States",
+    "Uruguay"
+  ],
+  "location_reside_region": [
+    "Africa",
+    "Americas",
+    "Asia",
+    "Europe",
+    "Oceania",
+    "Prefer not to say"
+  ],
+  "stated_prefs_TOP": [
+    "creativity",
+    "diversity",
+    "factuality",
+    "fluency",
+    "helpfulness",
+    "personalisation",
+    "safety",
+    "values"
+  ],
+  "order_lm_usecases_TOP": [
+    "casual_conversation",
+    "creative_writing",
+    "daily_productivity",
+    "financial_guidance",
+    "games",
+    "historical_or_news_insight",
+    "homework_assistance",
+    "language_learning",
+    "lifestyle_and_hobbies",
+    "medical_guidance",
+    "personal_recommendations",
+    "professional_work",
+    "relationship_advice",
+    "research",
+    "source_suggestions",
+    "technical_or_programming_help",
+    "travel_guidance",
+    "well-being_guidance"
+  ],
+  "communication_style": [
+    "Academic / Formal",
+    "Direct / Highly Concise",
+    "Empathetic / Warm",
+    "Humorous / Playful",
+    "Technical / Jargon-heavy",
+    "Casual / Conversational",
+    "Slang / Internet-culture driven",
+    "Hesitant / Exploratory"
+  ],
+  "information_consumption_format": [
+    "Long-form Text (Articles/Books)",
+    "Short-form Text (Microblogging)",
+    "Long-form Video (YouTube/Documentaries)",
+    "Short-form Video (Reels/TikTok)",
+    "Audio / Podcasts",
+    "Interactive / Hands-on Learning",
+    "Visual / Infographics"
+  ],
+  "professional_seniority": [
+    "Student / Trainee",
+    "Entry-level / Junior",
+    "Mid-level / Experienced",
+    "Senior / Lead",
+    "Manager / Director",
+    "Executive / C-Suite",
+    "Freelancer / Independent Contractor",
+    "Business Owner / Founder"
+  ],
+  "technical_expertise_level": [
+    "Absolute Beginner (Needs step-by-step UI guidance)",
+    "Familiar Consumer (Comfortable with everyday apps)",
+    "Power User (Uses shortcuts, advanced features)",
+    "Hobbyist / Tinkerer (Basic scripting, self-taught)",
+    "Professional / Practitioner (Writes code/builds systems daily)",
+    "Advanced Expert / Researcher (Deep domain architecture)"
+  ],
+  "living_environment": [
+    "Dense Urban / Metropolitan",
+    "Urban / City",
+    "Suburban",
+    "Rural / Agricultural",
+    "Remote / Off-grid",
+    "Nomadic / Frequent Traveler"
+  ],
+  "household_composition": [
+    "Living Alone",
+    "Living with Partner / Spouse",
+    "Living with Roommates",
+    "Single Parent with Children",
+    "Two Parents with Children",
+    "Multi-generational Family",
+    "Empty Nesters"
+  ],
+  "financial_mindset": [
+    "Strict Budgeter / Highly Frugal",
+    "Value-Conscious / Deal-seeker",
+    "Comfortable / Balanced Spending",
+    "Luxury / Premium-Seeking",
+    "Investor / Growth-Focused"
+  ],
+  "primary_hobbies_and_interests": [
+    "Fitness & Athletics",
+    "Outdoor Recreation (Hiking, Camping)",
+    "Video Gaming (PC/Console)",
+    "Tabletop RPGs & Board Games",
+    "Cooking & Gastronomy",
+    "Baking & Pastry",
+    "Travel & Backpacking",
+    "Arts & Traditional Crafts",
+    "Digital Art & Design",
+    "Music Performance & Production",
+    "Reading & Literature",
+    "Film, Cinema & Television",
+    "Technology & Gadgets",
+    "DIY, Maker Culture & Home Improvement",
+    "Investing & Personal Finance",
+    "Fashion & Style",
+    "Automotive & Mechanics",
+    "Gardening & Plant Care",
+    "History & Philosophy"
+  ],
+  "ai_interaction_mode": [
+    "The Brainstorming Partner (Seeking ideas and iteration)",
+    "The Task Delegator (Wants final, copy-paste outputs)",
+    "The Information Retriever (Wants factual summaries/search)",
+    "The Code/Writing Reviewer (Wants critique on existing work)",
+    "The Roleplay/Entertainment Seeker (Seeking narrative/fun)",
+    "The Tutor/Teacher (Wants concepts explained patiently)",
+    "The Rubber Duck (Talking through a problem out loud)"
+  ],
+  "housing_tenure": [
+    "Renter-occupied",
+    "Owner-occupied (with mortgage/loan)",
+    "Owner-occupied (free and clear)",
+    "Occupied without payment of rent",
+    "Unhoused / In transition"
+  ],
+  "household_income_bracket": [
+    "Under $25,000",
+    "$25,000 to $49,999",
+    "$50,000 to $74,999",
+    "$75,000 to $99,999",
+    "$100,000 to $149,999",
+    "$150,000 or more",
+    "Prefer not to say"
+  ],
+  "commute_to_work_mode": [
+    "Drove alone (Car/Truck/Van)",
+    "Carpooled",
+    "Public transportation (Bus/Train/Subway)",
+    "Bicycle or Micro-mobility (Scooter)",
+    "Walked",
+    "Worked from home / Remote",
+    "Not applicable / Do not commute"
+  ],
+  "language_spoken_at_home": [
+    "English only",
+    "Spanish",
+    "Other Indo-European languages",
+    "Asian and Pacific Island languages",
+    "Other languages",
+    "Multilingual / Blended household"
+  ],
+  "veteran_status": [
+    "Active Duty Military",
+    "Veteran",
+    "Non-veteran"
+  ],
+  "internet_and_device_access": [
+    "Broadband subscription with computer/smartphone",
+    "Cellular data plan only (Smartphone-dependent)",
+    "Dial-up or limited/unreliable broadband",
+    "No home internet access (relies on public Wi-Fi)"
+  ],
+  "migration_and_mobility": [
+    "Lived in same house 1 year ago (Stable)",
+    "Moved within same city/county (Local move)",
+    "Moved from different state/region (Relocation)",
+    "Moved from abroad (Recent immigrant/expat)"
+  ]
+}
